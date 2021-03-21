@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sharatchandra1998
+- 👀 I’m interested in  learning about Data science and Embedded software developmemt
+- 🌱 I’m currently learning ...Java
+- 💞️ I’m looking to collaborate on Java
+- 📫 How to reach me ...Iam figuring out github. I will update in a while.
